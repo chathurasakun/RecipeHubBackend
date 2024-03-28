@@ -30,10 +30,10 @@ brew services list
 npm install
 ```
 
-### Run
+### Run Node server
 ```
 node server.js
 ```
-### Run mongo db instance (Don't repeat this step if you already did in top)
+### Run Mongo DB Server (Don't repeat this step if you already did in top)
 ```
 brew services start mongodb/brew/mongodb-community
